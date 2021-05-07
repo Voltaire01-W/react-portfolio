@@ -22,7 +22,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Connor Clark</strong>
-                <br />A passionate programmer and a Data Scientist, born and raised in Iowa. I am a Web Developer with React.js, Express.js, Node.js, and MongoDB as my tech stack.
+                <br />A passionate programmer with a background in Data Science, born and raised in Iowa. I am a Web Developer with React.js, Express.js, Node.js, and MongoDB as my tech stack.
                 <br />
                 In 2020, I successfully completed my Data Science track with specialization in Web Development.
                 <br />
