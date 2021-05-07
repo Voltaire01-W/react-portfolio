@@ -62,12 +62,12 @@ export const skills = {
       imgSrc: L_REACT,
       skillName: "React JS",
     },
-    {
-      link: "https://redux.js.org/",
-      imgAltText: "Redux",
-      imgSrc: L_REDUX,
-      skillName: "Redux",
-    },
+    // {
+    //   link: "https://redux.js.org/",
+    //   imgAltText: "Redux",
+    //   imgSrc: L_REDUX,
+    //   skillName: "Redux",
+    // },
     {
       link: "https://reacttraining.com/react-router/",
       imgAltText: "React Router",
@@ -80,12 +80,12 @@ export const skills = {
       imgSrc: L_MATERIALUI,
       skillName: "Material-UI",
     },
-    {
-      link: "https://react-bootstrap.github.io/",
-      imgAltText: "React Bootstrap",
-      imgSrc: L_REACT_BOOTSTRAP,
-      skillName: "React Bootstrap",
-    },
+    // {
+    //   link: "https://react-bootstrap.github.io/",
+    //   imgAltText: "React Bootstrap",
+    //   imgSrc: L_REACT_BOOTSTRAP,
+    //   skillName: "React Bootstrap",
+    // },
     {
       link: "https://styled-components.com/",
       imgAltText: "styled-components",
@@ -102,18 +102,18 @@ export const skills = {
       imgSrc: L_NODE_JS,
       skillName: "Node.js",
     },
-    {
-      link: "https://expressjs.com/",
-      imgAltText: "Express",
-      imgSrc: L_EXPRESS,
-      skillName: "Express",
-    },
-    {
-      link: "https://www.djangoproject.com/",
-      imgAltText: "Django",
-      imgSrc: L_DJANGO,
-      skillName: "Django",
-    },
+    // {
+    //   link: "https://expressjs.com/",
+    //   imgAltText: "Express",
+    //   imgSrc: L_EXPRESS,
+    //   skillName: "Express",
+    // },
+    // {
+    //   link: "https://www.djangoproject.com/",
+    //   imgAltText: "Django",
+    //   imgSrc: L_DJANGO,
+    //   skillName: "Django",
+    // },
     {
       link: "https://flask.palletsprojects.com/",
       imgAltText: "Flask",
@@ -128,12 +128,12 @@ export const skills = {
       imgSrc: L_HEROKU,
       skillName: "Heroku",
     },
-    {
-      link: "https://www.digitalocean.com/",
-      imgAltText: "Digital Ocean",
-      imgSrc: L_DIGITAL_OCEAN,
-      skillName: "Digital Ocean",
-    },
+    // {
+    //   link: "https://www.digitalocean.com/",
+    //   imgAltText: "Digital Ocean",
+    //   imgSrc: L_DIGITAL_OCEAN,
+    //   skillName: "Digital Ocean",
+    // },
     {
       link: "https://pages.github.com/",
       imgAltText: "GitHub Pages",
@@ -148,24 +148,24 @@ export const skills = {
       imgSrc: L_JAVASCRIPT,
       skillName: "JavaScript",
     },
-    {
-      link: "https://www.typescriptlang.org/",
-      imgAltText: "TypeScript",
-      imgSrc: L_TYPESCRIPT,
-      skillName: "TypeScript",
-    },
+    // {
+    //   link: "https://www.typescriptlang.org/",
+    //   imgAltText: "TypeScript",
+    //   imgSrc: L_TYPESCRIPT,
+    //   skillName: "TypeScript",
+    // },
     {
       link: "https://www.python.org/",
       imgAltText: "Python",
       imgSrc: L_PYTHON,
       skillName: "Python",
     },
-    {
-      link: "https://golang.org/",
-      imgAltText: "Golang",
-      imgSrc: L_GOLANG,
-      skillName: "Golang",
-    },
+    // {
+    //   link: "https://golang.org/",
+    //   imgAltText: "Golang",
+    //   imgSrc: L_GOLANG,
+    //   skillName: "Golang",
+    // },
   ],
   databases: [
     {
@@ -174,12 +174,12 @@ export const skills = {
       imgSrc: L_POSTGRESQL,
       skillName: "PostgreSQL",
     },
-    {
-      link: "https://www.microsoft.com/en-us/sql-server/sql-server-2019",
-      imgAltText: "MS-SQL",
-      imgSrc: L_MSSQL,
-      skillName: "MS-SQL",
-    },
+    // {
+    //   link: "https://www.microsoft.com/en-us/sql-server/sql-server-2019",
+    //   imgAltText: "MS-SQL",
+    //   imgSrc: L_MSSQL,
+    //   skillName: "MS-SQL",
+    // },
     {
       link: "https://www.mongodb.com/",
       imgAltText: "MongoDB",
