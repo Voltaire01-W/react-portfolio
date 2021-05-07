@@ -25,8 +25,8 @@ import L_CSS3 from "../../assets/img/skills/css3.svg";
 import L_BOOTSTRAP4 from "../../assets/img/skills/bootstrap-4.svg";
 import L_DJANGO from "../../assets/img/skills/django.svg";
 import L_DIGITAL_OCEAN from "../../assets/img/skills/digital-ocean.svg";
-import L_GIT from "../../assets/img/skills/github-api.svg";
-import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
+import L_GRAPHQL from "../../assets/img/skills/graphql.jpg";
+import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 
 
 import "./projects-timeline.styles.css";
@@ -107,12 +107,12 @@ const TimeLine = () => {
                           <li>
                             <span className="p-2">
                               <Image
-                                src={L_MATERIALUI}
-                                alt="Material-UI"
+                                src={L_JAVASCRIPT}
+                                alt="JavaScript"
                                 rounded
                                 className="image-style1 m-1"
                               ></Image>{" "}
-                              Material-UI
+                              JavaScript
                             </span>
                           </li>
                           
@@ -162,14 +162,14 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> This app calculates Tip for the amount entered and percentage of tip to be given.
-                        It uses MERN stack build to acomplish the same.
+                        <strong>Description:</strong> Constructed a visually aesthetic clone of Instagram.
+                              Come join the world of social media, show off your food and travelling adventures!
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
-                          <li>Enter amount upto your desire</li>
-                          <li>Real-time API calls with Backend features</li>
-                          <li>Styled with  Material-UI</li>
+                          <li>See your friends</li>
+                          <li>Post pictures of food and your travels</li>
+                          <li>Styled with Tailwind</li>
                         </ul>
                         <hr />
                         <strong>Tech used:</strong>
@@ -194,39 +194,6 @@ const TimeLine = () => {
                                 className="image-style1 m-1"
                               ></Image>{" "}
                               Node.js
-                            </span>
-                          </li>
-                          <li>
-                            <span className="p-2">
-                              <Image
-                                src={L_EXPRESS}
-                                alt="Express"
-                                rounded
-                                className="image-style1 m-1"
-                              ></Image>{" "}
-                              Express
-                            </span>
-                          </li>
-                          <li>
-                            <span className="p-2">
-                              <Image
-                                src={L_MONGODB}
-                                alt="MongoDB"
-                                rounded
-                                className="image-style1 m-1"
-                              ></Image>{" "}
-                              MongoDB
-                            </span>
-                          </li>
-                          <li>
-                            <span className="p-2">
-                              <Image
-                                src={L_MATERIALUI}
-                                alt="Material-UI"
-                                rounded
-                                className="image-style1 m-1"
-                              ></Image>{" "}
-                              Material-UI
                             </span>
                           </li>
                         </ul>
@@ -274,14 +241,12 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> An app that searches
-                        people on GitHub with non-private account and see all
-                        their details using GitHub API
+                        <strong>Description:</strong> Check out Pokemon that you like and see their available attacks, HP, and CP.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
-                          <li>Search any Github profile</li>
-                          <li>Real-time API calls</li>
+                          <li>Cute Pokemon!</li>
+                          <li>Real-time GraphQL Calls</li>
                         </ul>
                         <hr />
                         <strong>Tech used:</strong>
@@ -322,12 +287,12 @@ const TimeLine = () => {
                           <li>
                             <span className="p-2">
                               <Image
-                                src={L_GIT}
-                                alt="Github API"
+                                src={L_GRAPHQL}
+                                alt="GraphQL"
                                 rounded
                                 className="image-style1 m-1"
                               ></Image>{" "}
-                              GitHub API
+                              GraphQL
                             </span>
                           </li>
                         </ul>
