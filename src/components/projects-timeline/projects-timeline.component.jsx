@@ -30,7 +30,7 @@ const TimeLine = () => {
         <ImageEvent
             date="5/1/2021"
             className="text-center"
-            text="Pizza.com"
+            text="Khan's Pizza Place!"
             src={L_PIZZA}
             alt="Pizza.com"
           >
@@ -193,7 +193,7 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://voltaire01-w.github.io/instagram"
+                  href="https://instagram-mjkqydlsu-voltaire01-w.vercel.app/"
                   target="_blank"
                 >
                   SEE LIVE
