@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "709b97d02385b1ad3919ef17321e75dc",
+    "revision": "77ef8ab595e607e1a1fd7dacfb977228",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "b202857b983d5f9ffbc0",
+    "revision": "b6a2a7722cc0f0342322",
     "url": "/react-portfolio/static/css/main.a226368d.chunk.css"
   },
   {
-    "revision": "e20114dd69f4b7e1a65f",
-    "url": "/react-portfolio/static/js/2.7b5866c9.chunk.js"
+    "revision": "47dcb7ff75fd8837e3f9",
+    "url": "/react-portfolio/static/js/2.c9cd9a89.chunk.js"
   },
   {
     "revision": "c87e50d81cc7b5311525cc6fd5482ea5",
-    "url": "/react-portfolio/static/js/2.7b5866c9.chunk.js.LICENSE.txt"
+    "url": "/react-portfolio/static/js/2.c9cd9a89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b202857b983d5f9ffbc0",
-    "url": "/react-portfolio/static/js/main.f81bebad.chunk.js"
+    "revision": "b6a2a7722cc0f0342322",
+    "url": "/react-portfolio/static/js/main.d8e87852.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
     "url": "/react-portfolio/static/js/runtime-main.213b1880.js"
-  },
-  {
-    "revision": "9730fefc26bb187c4f4bb29b95d82e7a",
-    "url": "/react-portfolio/static/media/Robofriends.9730fefc.webp"
   },
   {
     "revision": "bf989778565c49da91f9e0ef13dbdc5c",
@@ -36,28 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/background.e95d0563.webp"
   },
   {
-    "revision": "ffded2381d25dd906406d6e07f91dea5",
-    "url": "/react-portfolio/static/media/bootstrap-4.ffded238.svg"
-  },
-  {
-    "revision": "db3c445b93fa7336d63f617a5f087c7e",
-    "url": "/react-portfolio/static/media/brain.db3c445b.webp"
-  },
-  {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
     "url": "/react-portfolio/static/media/css3.3707da3c.svg"
-  },
-  {
-    "revision": "add239172d50d6ad18d2ac3cea6257a1",
-    "url": "/react-portfolio/static/media/digital-ocean.add23917.svg"
-  },
-  {
-    "revision": "bcf22073c9f13bab1761b90bce9fec55",
-    "url": "/react-portfolio/static/media/django.bcf22073.svg"
-  },
-  {
-    "revision": "c6bab64b183f96aa47077fd3db37afd0",
-    "url": "/react-portfolio/static/media/express.c6bab64b.svg"
   },
   {
     "revision": "d98463abd102acdc2b1eb8d5eb70b2d2",
@@ -70,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ff1a6f08182be4aa63a0b54da1b9e57",
     "url": "/react-portfolio/static/media/github.0ff1a6f0.svg"
-  },
-  {
-    "revision": "30bd42ea97a2e0454bb1dfbab983eb54",
-    "url": "/react-portfolio/static/media/go-6.30bd42ea.svg"
   },
   {
     "revision": "1640cb74c4b55c1b9cb12b88ff93a98a",
@@ -104,16 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/logow.193b1736.webp"
   },
   {
-    "revision": "82291019f34ab54a677c456a84127cc3",
-    "url": "/react-portfolio/static/media/material-ui-1.82291019.svg"
-  },
-  {
     "revision": "2985235df31b8742d893d5b7e80145c5",
     "url": "/react-portfolio/static/media/mongodb.2985235d.svg"
-  },
-  {
-    "revision": "54d7bddcd3019ec3c3b23db00160ccef",
-    "url": "/react-portfolio/static/media/mssql.54d7bddc.svg"
   },
   {
     "revision": "a123152868245dee71c441124a98ac3e",
@@ -128,28 +92,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/pizza-3.ccad5f01.jpg"
   },
   {
-    "revision": "95dd3e00f0920b6bed086d4a30d5b027",
-    "url": "/react-portfolio/static/media/portfolioUsingDjango.95dd3e00.webp"
-  },
-  {
     "revision": "d7c985e7cca077dc2d77f89a66573e35",
     "url": "/react-portfolio/static/media/postgresql.d7c985e7.svg"
   },
   {
-    "revision": "4bef4c3e368bd761b543e597d90b79bc",
-    "url": "/react-portfolio/static/media/product_hunt_clone.4bef4c3e.webp"
-  },
-  {
     "revision": "13877bdd1a9c5063c7c7360cf78cece5",
-    "url": "/react-portfolio/static/media/profile.13877bdd.webp"
+    "url": "/react-portfolio/static/media/profile.13877bdd.jpg"
   },
   {
     "revision": "146716bdf1a351db5705ec1e6a25ed08",
     "url": "/react-portfolio/static/media/python.146716bd.svg"
-  },
-  {
-    "revision": "ef194ddf5faf63cb6cc580a4535be695",
-    "url": "/react-portfolio/static/media/react-bootstrap.ef194ddf.svg"
   },
   {
     "revision": "024196716802e272adb3cbefb81fd557",
@@ -158,10 +110,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4009eef3b3e291f296e71962c70895c5",
     "url": "/react-portfolio/static/media/react.4009eef3.svg"
-  },
-  {
-    "revision": "aa0a337603611296524a666b62a9ff23",
-    "url": "/react-portfolio/static/media/redux.aa0a3376.svg"
   },
   {
     "revision": "b446ca5a397c1ef6fb94cd02c4e94335",
@@ -182,9 +130,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ceedb838144da63d409d778f4245a82",
     "url": "/react-portfolio/static/media/styled-components.9ceedb83.svg"
-  },
-  {
-    "revision": "3de182d2120823fe49c27eeb1765c53a",
-    "url": "/react-portfolio/static/media/typescript.3de182d2.svg"
   }
 ]);
