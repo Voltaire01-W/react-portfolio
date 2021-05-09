@@ -193,7 +193,7 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://instagram-mjkqydlsu-voltaire01-w.vercel.app/"
+                  href="https://instagram-rodiq7hsr-voltaire01-w.vercel.app/"
                   target="_blank"
                 >
                   SEE LIVE
