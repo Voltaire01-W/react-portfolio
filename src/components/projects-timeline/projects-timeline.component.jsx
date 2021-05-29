@@ -3,6 +3,7 @@ import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 
 // projects
 import L_PIZZA from "../../assets/img/projects/pizza-3.jpg";
+import FIREBIRD from "../../assets/img/projects/phoenix.png";
 import L_INSTAGRAM from "../../assets/img/projects/instagram.jpg";
 import L_PIKACHU from "../../assets/img/projects/pikachu.jpg";
 import Accordion from "react-bootstrap/Accordion";
@@ -26,6 +27,106 @@ const TimeLine = () => {
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
         <Events>
+          {/* Project: eCommerce */}
+        <ImageEvent
+            date="5/19/2021"
+            className="text-center"
+            text="Firebird Social"
+            src={FIREBIRD}
+            alt="firebird.social"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong> What's on your mind? Go ahead and share it in a post, or customize your profile with a Bio and Picture! We look forward to seeing you on there!
+                        <hr />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>Create an account with email authentication</li>
+                          <li>Create Posts or Comments</li>
+                          <li>Like your friends posts!</li>
+                        </ul>
+                        <hr />
+                        <strong>Tech used:</strong>
+                        <ul>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_NODE_JS}
+                                alt="HTML 5"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              Node
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_CSS3}
+                                alt="CSS 3"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              CSS3
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_REACT}
+                                alt="React"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              React
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JAVASCRIPT}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
+                          
+                        </ul>
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-between flex-nowrap text-center">
+                <UrlButton
+                  href="https://firebird.social/"
+                  target="_blank"
+                >
+                  SEE LIVE
+                </UrlButton>
+                <UrlButton
+                  href="https://github.com/Voltaire01-W/Social_Media_App_Frontend"
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
         {/* Project: eCommerce */}
         <ImageEvent
             date="5/1/2021"
